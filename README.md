@@ -1,10 +1,21 @@
-## Descripción del Proyecto
+# 📊 Análisis de Tiendas - Alura Store
 
-Este análisis explora:
+¡Bienvenido al primer desafío de análisis de datos!  
+Durante este proyecto, ayudamos al Sr. Juan (João) a tomar una decisión estratégica: determinar cuál de sus cuatro tiendas de la cadena Alura Store debe vender para iniciar un nuevo emprendimiento.
 
-- Las ventas totales y calificaciones promedio por tienda.
-- La distribución de productos por categoría.
-- Comparaciones entre tiendas mediante gráficos de barras, líneas, pastel y áreas.
-- Visualización geográfica mediante coordenadas (lat, lon) usando mapas de calor y gráficos de dispersión.
+---
 
-El objetivo final es identificar patrones geográficos que impactan el rendimiento de las tiendas.
+## 🎯 Propósito del Análisis
+
+El objetivo principal de este proyecto es identificar la tienda menos eficiente entre las cuatro disponibles, a través de un análisis profundo de los datos de ventas, calificaciones y rendimiento.
+
+Se evaluaron los siguientes aspectos:
+
+- Ingresos totales por tienda
+- Categorías más vendidas
+- Productos más vendidos
+- Reseñas promedio de clientes
+- Tiempo de entrega promedio
+- Rendimiento general por tienda
+
+Con base en estos datos, se entrega una recomendación final al Sr. Juan sobre qué tienda vender.
